@@ -2,7 +2,7 @@
 
 ## 프로젝트 소개
 
-이 저장소는 MCP(Multi Cloud Platform)와 연동된 Rust 기반 프로젝트입니다. 
+이 저장소는 MCP(Model Context Protocol)와 연동된 Rust 기반 프로젝트입니다. 
 
 ### 주요 기능
 - Rust 기본 프로젝트 구조
